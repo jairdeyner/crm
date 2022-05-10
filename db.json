@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jair Acutalizado",
+      "empresa": "Idat",
+      "email": "jair@gmail.com",
+      "telefono": "987654321",
+      "notas": "My name is Jair and my last name is Tello",
+      "id": 1
+    },
+    {
+      "nombre": "Piero",
+      "empresa": "Intercorp",
+      "email": "piero@gmail.com",
+      "telefono": "987654321",
+      "notas": "Nuevo cliente",
+      "id": 2
+    }
+  ]
+}
